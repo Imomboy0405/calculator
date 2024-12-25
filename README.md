@@ -4,6 +4,7 @@ TUIT Amaliy ish
 
 ## screenshots
 
-![Skrinshot 1](screenshots/screenshot_1.png)
-
-![Skrinshot 2](screenshots/screenshot_2.png)
+<div style="display: flex;">
+  <img src="screenshots/screenshot_1.png" alt="Dark mode"/>
+  <img src="screenshots/screenshot_2.png" alt="Light mode"/>
+</div>
