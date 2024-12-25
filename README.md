@@ -5,6 +5,6 @@ TUIT Amaliy ish
 ## screenshots
 
 <div style="display: flex;">
-  <img src="screenshots/screenshot_1.png" alt="Dark mode"/>
-  <img src="screenshots/screenshot_2.png" alt="Light mode"/>
+  <img src="screenshots/screenshot_1.png" max-width=49% alt="Dark mode"/>
+  <img src="screenshots/screenshot_2.png" max-width=49% alt="Light mode"/>
 </div>
